@@ -10,7 +10,7 @@ If you are using the python script directly, you will need:
 * [Tkinter](https://tkdocs.com/index.html)
 * [FFmpeg](https://ffmpeg.org/)
 
-The executable packages are created using PyInstaller. For those, the only requirement is FFmpeg.
+The executable packages are created using PyInstaller and the setup packages are created using the Inno Setup Compiler. The Windows packages include compiled FFmpeg binaries by [gyan.dev](https://www.gyan.dev/ffmpeg/builds/) (not affiliated with this project).
 
 ## That is all
 I hope you find this script useful!
